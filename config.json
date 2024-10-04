@@ -1,0 +1,7 @@
+{
+    "SOURCE_CLIENT_ID": "",
+    "SOURCE_CLIENT_SECRET": "",
+    "SOURCE_TENANT_ID": "",
+    "MIGRATE_ATTACHMENTS": false,
+    "EMAIL_FORMAT": "html"
+}
