@@ -1,5 +1,7 @@
 # o365_imap_migration
 
+This script will migrate multiple user and shared mailboxes from O365 to a new mail server using IMAP. It will automatically authenticate the user or mailbox.
+
 Steps:
 
 1. Install all the requirements.
